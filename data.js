@@ -1,4 +1,4 @@
-const APP_ID = '<YOUR-REALM-APPID>';
+const APP_ID = 'application-0-hbzvk';
 const ATLAS_SERVICE = 'mongodb-atlas';
 const app = new Realm.App({id: APP_ID});
 
